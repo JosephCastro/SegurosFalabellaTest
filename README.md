@@ -93,5 +93,5 @@ Reglas de productos:
   - Para el desarrollo esperamos que trabajes con el lenguaje que se te indico, ademas de utilizar Docker para ejecutar el lanzamiento de la aplicacion, para ello debes incluir un Dockerfile con todas las dependencias para poder ejecutarlo.
   - Esperamos al menos un 100% de cobertura, del código que desarrolles (no aplica código de frameworks), deberas proveer el comando para ejecutar esta medición.
   - Debes proveer la documentación para utilizar tu API, puede ser un postman collection, swagger u otro. Recuerda siempre incluir un readme.
-  - Solo vamos a considerar tu solución, si nos envias tu propio repositorio con la solución propuesta.
+  - Solo vamos a considerar tu solución, si nos envias el enlace con tu propio repositorio con la solución propuesta (github, gitlab, etc).
 
