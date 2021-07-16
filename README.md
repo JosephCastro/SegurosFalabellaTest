@@ -1,13 +1,43 @@
 # **Seguros Falabella**
 
+Aspirante al cargo: **Nelson Acosta**
+
+Perfil: **Full Stack Developer**
+
+Repositorio de trabajo: [Ver](https://github.com/nelsonacos/product-sales-manager)
+
+## Sobre el test me surgen las siguientes interrogantes
+1. En el enunciado del problema se suministran los siguientes ejemplos:
+
+----------------- Dia 0 --------------------------------
+
+    Full cobertura super duper, 10, 49
+
+    Full cobertura super duper, 5, 49
+   
+  Su valor base entiendo que es: 24.5  cuando faltando 10 dias el precio es 49. Pero entiendo que faltando 5 dias el precio deberia incrementar * 3.
+
+  Deberia incrementar sobre su valor Inicial ? o sobre su valor actual?
+
+-----------------  Dia 1  -------------------------------
+
+    Full cobertura super duper, 9, 48
+    
+    Full cobertura super duper, 4, 48
+  
+ Por lo que entiendo en el ejemplo cada dia el sistema debe disminuir 1 al precio como a SellIn,  pero no entiendo porque cuando quedan 5 dias o menos en el ejemplo no esta incrementando su valor * 3 
+ 
+2. El precio de un producto nunca es mayor a 100 pero si asumo esto como cierto y lo declaro en el Schema de la base de datos generar error al intentar crear un producto  como este por ejemplo :
+ 
+                  Mega cobertura tiene un precio fijo de 180
+
 ## Test de entrevista
 
 Bienvenido al test para el cargo de **Desarrollador de Software en Seguros Falabella**. En este test esperamos poder ver todo el conocimiento que tienes al momento de desarrollar software, ver cual es tu acercamiento a la solución y cuales buenas practicas manejas. **Por favor lee todo el enunciado antes de comenzar**.
 
 Para ello te presentamos el problema a resolver a continuación:
 
-- Como corredora de seguros que somos, tenemos en nuestra parrilla de productos, muchos de ellos, pero la gran mayoria se comporta de forma distinta y debemos verificar
-como se comportan a traves del tiempo.
+- Como corredora de seguros que somos, tenemos en nuestra parrilla de productos, muchos de ellos, pero la gran mayoria se comporta de forma distinta y debemos verificar como se comportan a traves del tiempo.
 
 Tu misión es:
 - Construir una API REST, de administrador de venta de productos, orientada a objetos.
