@@ -91,7 +91,7 @@ Reglas de productos:
   - Vamos a leer la historia de los commits, para ver como llegaste a la solución, asi que debes hacer commit a medida que avanzas en el desarrollo, para ello  
     esperamos comentarios de commits, que sean significantes.
   - Para el desarrollo esperamos que trabajes con el lenguaje que se te indico, ademas de utilizar Docker para ejecutar el lanzamiento de la aplicacion, para ello debes incluir un Dockerfile con todas las dependencias para poder ejecutarlo.
-  - Esperamos al menos un 100% de cobertura, del código que desarrolles (no aplica código de frameworks), deberas proveer el comando para ejecutar esta medición.
+  - Esperamos al menos un 100% de cobertura de TESTS, del código que desarrolles (no aplica código de frameworks), deberas proveer el comando para ejecutar esta medición.
   - Debes proveer la documentación para utilizar tu API, puede ser un postman collection, swagger u otro. Recuerda siempre incluir un readme.
   - Solo vamos a considerar tu solución, si nos envias el enlace con tu propio repositorio con la solución propuesta (github, gitlab, etc).
 
